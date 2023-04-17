@@ -1,0 +1,17 @@
+commit 0eba4b980bfefc5689656a58851b01e173985fbc 
+Author: LucasAraoz <129238871+LucasAraoz@users.noreply.github.com>
+Date:   Mon Apr 17 17:31:22 2023 -0300
+
+    added log.txt
+
+commit a72dd6dc630cd3cbe641685c91c1cc8044c5ae04 
+Author: LucasAraoz <129238871+LucasAraoz@users.noreply.github.com>
+Date:   Mon Apr 17 16:41:24 2023 -0300
+
+    Update README.md
+
+commit b8e4f3eb1c37cc7ff8418f61f4b00ca6baf12998
+Author: LucasAraoz <129238871+LucasAraoz@users.noreply.github.com>
+Date:   Mon Apr 17 04:51:26 2023 -0300
+
+    created README.md
